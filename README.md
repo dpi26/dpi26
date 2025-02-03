@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --
-all arewi>
-bbbjhgghgjhtjytghftrfvghfghhgjhbn
+all arewi>.
+bbbjhgghgjhtjytghftrfvghfghhgjhbn.
