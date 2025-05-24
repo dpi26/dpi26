@@ -18,4 +18,4 @@ all arewi>.
 bbbjhgghgjhtjytghftrfvghfghhgjhbn.
 smilie
 n-->
-here all are written in html language which use many tages like 
+here all are written in html language which use many tages like  html, head , title, 
