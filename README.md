@@ -19,5 +19,5 @@ bbbjhgghgjhtjytghftrfvghfghhgjhbn.
 smilie
 n-->
 here all are written in html language which use many tages like  html, head , title.
-...there is very useful folder here..
+.there is very useful folder here..
 
