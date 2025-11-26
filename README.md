@@ -1,7 +1,7 @@
  ⚡Dipti@4#4@⚡
 only this things are used in program.
 <!--
-**dpi26/dpi26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dpi26/dpi26** is a ✨ _special_ ✨ repository because its `README.md` (this file).
 
 Here are some ideas to get you started:
 
