@@ -1,5 +1,5 @@
- ⚡Dipti@4#4@⚡
-only this things are used in program.
+ ⚡Dipti Kumari⚡
+I'm a programer and web developer.
 <!--
 **dpi26/dpi26** is a ✨ _special_ ✨ repository because its `README.md` (this file).
 
