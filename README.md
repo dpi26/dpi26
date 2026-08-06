@@ -1,23 +1,21 @@
- ⚡Dipti Kumari⚡
-I'm a programer and web developer.
-<!--
-**dpi26/dpi26** is a ✨ _special_ ✨ repository because its `README.md` (this file).
+👋 Hi, I'm Dipti Kumari
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer || C++ Programmer
+🤖 AI Enthusiast
+📍 India
 
-- 🔭 I’m currently working on .
-- 🌱 I’m currently learning .
-- 👯 I’m looking to collaborate on .
-- 🤔 I’m looking for help with .
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
---
-all arewi>.
-bbbjhgghgjhtjytghftrfvghfghhgjhbn.
-smilie
-n-->
-here all are written in html language which use many tages like  html, head , title.
-.there is very useful folder here.
+🔥 Featured Projects
+⭐ Campus Safety Guardian
+⭐ Student Management System
+⭐ Portfolio Website
+⭐ AI Pet Face Classification
 
+🛠 Tech Stack
+HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Python | Git |C++
+
+📈 GitHub Stats
+
+📫 Contact
+LinkedIn : https://www.linkedin.com/in/dipti-kumari-01786a302/
+Portfolio : dipti-kumari.kryotek.in
+Email : kdipti099@gmail.com
